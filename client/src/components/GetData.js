@@ -2,11 +2,12 @@ import React, { useEffect } from "react";
 import { connect } from "react-redux"; 
 import api from "../actions"; 
 import Styled from "styled-components"; 
+import Donate from "./Donate";
 
 const Button = Styled.div`
-background-color: #4CAF50; /* Green */
+background-color: #ffffff; 
   border: none;
-  color: white;
+  color: #000000;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -28,7 +29,7 @@ const GetData = (props) => {
         <img src={props.message} />
         <Margin> </Margin>
         <Button> 
-        <button onClick={props.api}> View </button> 
+        <a onClick={props.api}> View </a> 
         </Button>
         </>
     )
