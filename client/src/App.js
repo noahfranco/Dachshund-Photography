@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import GetData from "./components/GetData.js"; 
 import Styled from "styled-components"; 
+import Donate from './components/Donate';
 
 const Background = Styled.div`
 background-image: url("https://wallpaperbro.com/img/124891.jpg");
@@ -15,7 +16,8 @@ function App() {
     <Background> 
     <div className="App">
       <h1> Dachshund Gallery </h1> 
-      <GetData /> 
+      <GetData />
+      <Donate /> 
     </div>
     </Background>
   );
