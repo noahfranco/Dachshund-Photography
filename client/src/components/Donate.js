@@ -24,7 +24,7 @@ const Donate = () => {
         <p> Your contributions can go a long ways to helping our little furry friends </p>
         </Color> 
         <Button> 
-        <a href="https://support.bestfriends.org/site/Donation2?df_id=1949&mfc_pref=T&1949.donation=form1"> Donate </a> 
+        <a href="https://support.bestfriends.org/site/Donation2?df_id=1949&mfc_pref=T&1949.donation=form1" target="_blank"> Donate </a> 
         </Button>
         </>
     )
