@@ -27,6 +27,8 @@ Dachshund Photography allows users to view photos of Dachshund by a click of a b
 
 A tribute to tribute to Olive 
 
+-------------------------------------
+
 Available Scripts
 In the project directory, you can run:
 
