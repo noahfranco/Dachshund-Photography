@@ -25,7 +25,7 @@ Dachshund Photography allows users to view photos of Dachshund by a click of a b
 
 ## Projects Ambition
 
-A tribute to tribute to Olive 
+A tribute to Olive ♥️
 
 -------------------------------------
 
