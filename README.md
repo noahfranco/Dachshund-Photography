@@ -2,6 +2,31 @@
 
 This project was bootstrapped with Create React App.
 
+## Technologies:
+Our application incorporates some great technologies such as the following listed below 🔥:
+
+    Javascript:
+
+    [x] React
+    [x] useEffect
+   
+
+    libraries:
+
+    [x] redux
+    [x] axios
+    [x] styled-components
+    [x] redux-thunk
+
+
+## What does it do?
+
+Dachshund Photography allows users to view photos of Dachshund by a click of a button. Dachshund application is perfect for any Dachshund or dog lover. 
+
+## Projects Ambition
+
+A tribute to tribute to Olive 
+
 Available Scripts
 In the project directory, you can run:
 
@@ -11,10 +36,6 @@ Open http://localhost:3000 to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
-
-npm test
-Launches the test runner in the interactive watch mode.
-See the section about running tests for more information.
 
 npm run build
 Builds the app for production to the build folder.
